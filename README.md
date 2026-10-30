@@ -18,4 +18,4 @@ Software Engineering undergrad at **Sir Syed University of Engineering & Technol
 ---
 
 ### 📊 GitHub Activity & Stats:
-![Abdul Ahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulahad-se&show_icons=true&theme=radical)
+![Abdul Ahad's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=abdulahad-se&theme=radical)
